@@ -1,0 +1,10 @@
+{
+  "ip": "127.0.0.1",
+  "puerto": "27017",
+  "nombreBaseDatos": "Memory",
+  "colecciones": {
+    "imagenes": "imágenes",
+    "usuarios": "usuarios",
+    "records": "récords"
+  }
+}
